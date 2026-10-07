@@ -1,0 +1,20 @@
+My FULL XODE ON FASTAPY AND MYQL:
+Import FastAPI import MyQL
+If FastAPI == __name__ == "__main__"
+    Thourchs.api_kay ="82jrnduh"
+   def_toppage()
+         render_template('top.page.html')
+    init_db()
+        @app.route('/dublan')
+         render_template('dublan.html')
+   conn = MyQL.connector.connect(
+                user ="topchik"
+                Host ="127.0.0.1"
+                password ="iwj3ksu" 
+                database ="database"
+              conn = commit()
+              conn.cursor()
+              conn.execute()
+
+
+)
