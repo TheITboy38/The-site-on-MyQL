@@ -1,12 +1,12 @@
-My FULL XODE ON FASTAPY AND MYQL:
-Import FastAPI import MyQL
+My FULL CODE ON FASTAPY AND MYQL:
+Import FastAPI import MyQL import Jinja2template
 If FastAPI == __name__ == "__main__"
-    Thourchs.api_kay ="82jrnduh"
-   def_toppage()
-         render_template('top.page.html')
+    Thourchs.api_key ="82jrnduh"
+   def_top_page()
+         Jinja2 = template. templates('top.page.html {Response = response')
     init_db()
-        @app.route('/dublan')
-         render_template('dublan.html')
+        @app.get('/dublan')
+         Jinja2 = template.templates('dublan.html {Response = response}')
    conn = MyQL.connector.connect(
                 user ="topchik"
                 Host ="127.0.0.1"
